@@ -72,7 +72,7 @@
     "@heroku-cli/plugin-git": "^2.5.24",
     "@heroku-cli/plugin-run": "^3.5.9",
     "cli-flags": "^2.0.7",
-    "cli-ux": "2.0.21",
+    "cli-ux": "3.3.22",
     "debug": "3.1.0",
     "execa": "^0.8.0",
     "fs-extra": "5.0.0",
